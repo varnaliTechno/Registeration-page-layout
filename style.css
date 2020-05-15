@@ -1,0 +1,75 @@
+body{
+	background-image: url(2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 700px;
+}
+.simple-form{
+	text-align: center;
+	margin: 100px 400px;
+}
+#Registeration{
+	width: 100%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 0px;
+}
+#button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+#ph{
+	outline: 0px;
+	width: 50px;
+	padding: 10px;
+	border-radius: 5px;
+}
+#ph{
+	width: 50px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+#phone{
+	width: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+#rd{
+	margin-left: -100;
+
+}
+#but{
+	color: white;
+    font-size: 18px;
+}
+#butt{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+	background-color: #0c8998;
+	border: 2px solid #01010c;
+	color: aliceclue;
+	font-size: 18px;
+}
+footer
+{
+text-align: center;
+background-color:#000000;
+color: #fff;
+padding: -1px;
+position: absolute;
+bottom: -20%;
+width: 99.5%;	
+clear: both;
+height: 7%;
+}
+@media(max-width:720px)
+{
+.main{
+		width: 90%;
+		min-height: 100%;
+}
